@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi 👋, I'm Shivanandagowda MC
 
-<!--
-**shivanandagowda-mc/shivanandagowda-mc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Science Engineering Student
+🏫 Ghousia College of Engineering
+🎓 Visvesvaraya Technological University
 
-Here are some ideas to get you started:
+💻 Passionate about building web applications, learning cloud technologies, and exploring Artificial Intelligence & Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🎓 Currently pursuing **BE in Computer Science**
+* 🌱 Learning and improving my skills in **Full Stack Development and Cloud**
+* 🤖 Interested in **Artificial Intelligence and Machine Learning**
+* ☁️ Exploring **AWS Cloud Technologies**
+* 💡 Always eager to learn new technologies and work on innovative projects
+
+---
+
+## 🛠️ Skills
+
+**Programming & Development**
+
+* Python
+* Python Full Stack Development
+* MySQL
+
+**Technologies**
+
+* Artificial Intelligence
+* Machine Learning
+* AWS (Amazon Web Services)
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 📂 Projects
+
+You can check my repositories to see the projects I have worked on.
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: *(Add your LinkedIn profile link here)*
+* GitHub: https://github.com/yourusername
+
+---
+
+⭐ *Thank you for visiting my GitHub profile!*
+
